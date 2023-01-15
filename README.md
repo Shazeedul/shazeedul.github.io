@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Laravel which is PHP based framework
 - 💞️ I’m looking to collaborate on Linkdin(https://www.linkedin.com/in/syed-shazeedul/)
-- 📫 You will reached me on Gmail(syedshazeedul@gmail.com) or Facebook(https://www.facebook.com/syedshazeedul.islam/)
+- 📫 You will reached me on Gmail(syedshazeedul@gmail.com) or Facebook(https://www.facebook.com/shazeedul/)
 
 <!---
 Shazeedul/Shazeedul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
